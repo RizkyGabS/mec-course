@@ -2,9 +2,16 @@
 
 Responsive landing page mockup for More Expression Course in Berastagi, Indonesia.
 
+## Online versions
+
+- [Version 1 — original M.E.C theme](https://rizkygabs.github.io/mec-course/)
+- [Version 2 — playful education design](https://rizkygabs.github.io/mec-course/v2.html)
+
+Both pages include a link to switch versions. Version 2 uses AI-generated illustrative student photos; the original M.E.C group photo is supplied by the institution.
+
 ## Preview
 
-Open `index.html` directly in a browser. Styles, scripts, and reference photos are embedded, so no installation or build is required.
+Open `index.html` (version 1) or `v2.html` (version 2) directly in a browser. Styles, scripts, and reference photos are embedded, so no installation or build is required.
 
 ## Content
 
